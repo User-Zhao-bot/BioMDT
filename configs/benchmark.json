@@ -1,0 +1,14 @@
+{
+  "model": "gpt-6.2-sol",
+  "reasoning_effort": "low",
+  "temperature": null,
+  "timeout_seconds": 180,
+  "retries": 1,
+  "concurrency": 2,
+  "max_model_calls": 25,
+  "max_tool_calls": 48,
+  "max_total_tokens": 300000,
+  "biomdt_rounds": 4,
+  "deepevidence_profile": "project",
+  "knowledge_scope": "native"
+}

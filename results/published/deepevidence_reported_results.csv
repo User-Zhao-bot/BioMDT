@@ -1,0 +1,13 @@
+source,task,method,reported_accuracy,unit,panel,underlying_model,doi
+published,target_identification,DeepEvidence,68,percent,2b,GPT-5,10.1038/s42256-026-01266-0
+published,target_identification,Biomni,56,percent,2b,GPT-5,10.1038/s42256-026-01266-0
+published,target_identification,ToolUniverse,40,percent,2b,GPT-5,10.1038/s42256-026-01266-0
+published,target_identification,General-purpose LLMs,42,percent,2b,See paper comparator description,10.1038/s42256-026-01266-0
+published,moa_pathway_reasoning,DeepEvidence,72,percent,3b,GPT-5,10.1038/s42256-026-01266-0
+published,moa_pathway_reasoning,Biomni,44,percent,3b,GPT-5,10.1038/s42256-026-01266-0
+published,moa_pathway_reasoning,ToolUniverse,44,percent,3b,GPT-5,10.1038/s42256-026-01266-0
+published,moa_pathway_reasoning,General-purpose LLMs,52,percent,3b,See paper comparator description,10.1038/s42256-026-01266-0
+published,in_vivo_metabolic_flux_response,DeepEvidence,80,percent,3d,GPT-5,10.1038/s42256-026-01266-0
+published,in_vivo_metabolic_flux_response,Biomni,68,percent,3d,GPT-5,10.1038/s42256-026-01266-0
+published,in_vivo_metabolic_flux_response,ToolUniverse,52,percent,3d,GPT-5,10.1038/s42256-026-01266-0
+published,in_vivo_metabolic_flux_response,General-purpose LLMs,60,percent,3d,See paper comparator description,10.1038/s42256-026-01266-0
