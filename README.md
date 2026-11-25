@@ -61,3 +61,7 @@ python scripts/benchmark.py plot --run-dir results/benchmark/new-smoke --format 
 ## 参考产物
 
 仓库提供 [CYH33 开发验证汇总](results/benchmark/smoke-sol-low/tables.md) 和 [原论文结果](results/published/deepevidence_reported_results.csv)。复跑后，README 的重算和绘图命令请指向你自己的运行目录。证据核验方案及逐题审核字段见 [Benchmark 报告](docs/benchmark_summary.md)。
+
+## 数据与来源
+
+DeepEvidence 数据文件通过 `scripts/setup_benchmark.py` 从 Hugging Face 固定 revision 下载。数据集卡标注 Apache-2.0。评分代码由同一脚本从官方 BioDSA 历史提交获取。论文、数据和上游实现的版权与署名信息以各自官方页面和随源码提供的许可证为准。
